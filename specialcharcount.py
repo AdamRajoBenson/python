@@ -1,4 +1,4 @@
-a=int(input())
+a=input()
 for i in a:
   if i.isalpha()!=True and i.isnumeric()!=True:
     count+=1
