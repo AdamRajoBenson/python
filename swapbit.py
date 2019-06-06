@@ -1,6 +1,7 @@
-a=int(input())
-b=int(input())
-a=a^b
-b=a^b
-a=a^b
-print(a,b)
+#swap using bitwise operator
+l=int(input())
+m=int(input())
+l=l^m
+m=l^m
+l=l^m
+print(l,m)
