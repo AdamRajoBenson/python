@@ -7,6 +7,6 @@ for i in v:
   elif(i.isalpha()):
     c=c+1
 if(b>1 and c>1):
-  print("yes")
+  print("Yes")
 else:
-  print("no")
+  print("No")
