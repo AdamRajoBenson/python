@@ -4,4 +4,4 @@ c=0
 for i in range(a):
    b.append(int(input()))
    c=c+b[i]
-print(c/a) 
+print(int(c/a)) 
